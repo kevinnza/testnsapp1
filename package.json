@@ -1,7 +1,10 @@
 {
   "name": "testnsapp1",
   "nativescript": {
-    "id": "org.nativescript.testnsapp1"
+    "id": "org.nativescript.testnsapp1",
+    "tns-android": {
+      "version": "4.2.0"
+    }
   },
   "version": "0.0.0",
   "scripts": {
